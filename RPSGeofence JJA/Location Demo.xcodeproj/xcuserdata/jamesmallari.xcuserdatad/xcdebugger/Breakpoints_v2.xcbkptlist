@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "573E8FF0-A7E5-43B8-A3D1-ABF0BC5E33EA"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A19DFD67-8A0B-4D8E-A6DD-E8257A1FD8CD"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Location Demo/studyhall/Views for study hall/StudyHallDetailView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "19"
+            endingLineNumber = "19"
+            landmarkName = "StudyHallDetailView"
+            landmarkType = "14">
+            <Locations>
+               <Location
+                  uuid = "A19DFD67-8A0B-4D8E-A6DD-E8257A1FD8CD - ecb48188d03c7ffc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "property wrapper backing initializer of Location_Demo.StudyHallDetailView.denialReason : Swift.String"
+                  moduleName = "Location Demo.debug.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jamesmallari/Downloads/RPSGeofence%20JJA/Location%20Demo/studyhall/Views%20for%20study%20hall/StudyHallDetailView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0">
+               </Location>
+               <Location
+                  uuid = "A19DFD67-8A0B-4D8E-A6DD-E8257A1FD8CD - 605e0fba3ad08daf"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Location_Demo.StudyHallDetailView.init(studyHallName: Swift.String) -&gt; Location_Demo.StudyHallDetailView"
+                  moduleName = "Location Demo.debug.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jamesmallari/Downloads/RPSGeofence%20JJA/Location%20Demo/studyhall/Views%20for%20study%20hall/StudyHallDetailView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "49D67847-C003-4B05-8298-407F56BBC712"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Location Demo/studyhall/Views for study hall/StudyHallDetailView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "20"
+            endingLineNumber = "20"
+            landmarkName = "StudyHallDetailView"
+            landmarkType = "14">
+            <Locations>
+               <Location
+                  uuid = "49D67847-C003-4B05-8298-407F56BBC712 - 29604fc2401bd08a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "property wrapper backing initializer of Location_Demo.StudyHallDetailView.showingDenialReasonPrompt : Swift.Bool"
+                  moduleName = "Location Demo.debug.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jamesmallari/Downloads/RPSGeofence%20JJA/Location%20Demo/studyhall/Views%20for%20study%20hall/StudyHallDetailView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0">
+               </Location>
+               <Location
+                  uuid = "49D67847-C003-4B05-8298-407F56BBC712 - 605e0fba3ad08dcc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Location_Demo.StudyHallDetailView.init(studyHallName: Swift.String) -&gt; Location_Demo.StudyHallDetailView"
+                  moduleName = "Location Demo.debug.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jamesmallari/Downloads/RPSGeofence%20JJA/Location%20Demo/studyhall/Views%20for%20study%20hall/StudyHallDetailView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5AD6041F-F528-4429-95D7-A3296CFC903D"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Location Demo/studyhall/Views for study hall/StudyHallDetailView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "13"
+            endingLineNumber = "13"
+            landmarkName = "StudyHallDetailView"
+            landmarkType = "14">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B2FCCC6B-8563-4675-A3D4-7D8FEF7154BF"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Location Demo/studyhall/Views for study hall/StudyHallDetailView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "15"
+            endingLineNumber = "15"
+            landmarkName = "StudyHallDetailView"
+            landmarkType = "14">
+            <Locations>
+               <Location
+                  uuid = "B2FCCC6B-8563-4675-A3D4-7D8FEF7154BF - a81f5da429df5b48"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "property wrapper backing initializer of Location_Demo.StudyHallDetailView.students : Swift.Array&lt;Location_Demo.Student&gt;"
+                  moduleName = "Location Demo.debug.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jamesmallari/Downloads/RPSGeofence%20JJA/Location%20Demo/studyhall/Views%20for%20study%20hall/StudyHallDetailView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0">
+               </Location>
+               <Location
+                  uuid = "B2FCCC6B-8563-4675-A3D4-7D8FEF7154BF - 605e0fba3ad08c13"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Location_Demo.StudyHallDetailView.init(studyHallName: Swift.String) -&gt; Location_Demo.StudyHallDetailView"
+                  moduleName = "Location Demo.debug.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jamesmallari/Downloads/RPSGeofence%20JJA/Location%20Demo/studyhall/Views%20for%20study%20hall/StudyHallDetailView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
